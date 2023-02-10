@@ -21,7 +21,7 @@ A project for upcycling ps/2 optical mice into trackballs using QMK.
 * 2 × 1u keycap
 
 ## Instructions
-1. Verify that your mouse is PS/2 compatible. Sometimes a USB mouse will be PS/2 compatible but it will not be indicated. The easiest way to check this is by using a green USB to PS/2 adapter. Remember, your computer will have to be restarted for it to recognise a ps/2 device.
+1. Verify that your mouse is PS/2 compatible. Sometimes a USB mouse will be PS/2 compatible but it will not be indicated. The easiest way to check this is by using a green USB to PS/2 adapter. Remember, your computer will have to be restarted for it to recognise a PS/2 device.
 2. Desolder the microswitches and rotary encoders to create more space.
 3. Mount your PCB to the case to verify that you can get it at the correct position to track your ball accurately. You will need to make a custom mount (instructions below). You will most likely need to play with the height and position using the slotted holes and spacers.
 4. Wire everything up using these instructions:
