@@ -12,7 +12,7 @@ A project for upcycling ps/2 optical mice into trackballs using QMK.
     * Arduino Pro Micro - [pin D5 needs to be exposed](https://golem.hu/guide/pro-micro-upgrade/)
 * 4 × keyswitches
 * 2 × 1.25u keycap
-* 2 x 1u keycap
+* 2 × 1u keycap
 * 4 × diode [required for hand wiring](https://github.com/qmk/qmk_firmware/blob/master/docs/hand_wire.md)
 * 2 × 4K7 Ohm resistor [required to hooking up PS/2 mouse to MCU](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md)
 * 3 × CY-8H ball transfer unit
