@@ -40,4 +40,13 @@ Place your PCB canvas so that the optical sensor is slightly below the centre po
 ![example of a mounting plate sketch](https://i.imgur.com/Ds6hh3e.png)
 
 ## Firmware
-Edit the keymap.c file of the firmware if you need to change the button mapping or if you want to change the mouse sensitivity.
+Edit the keymap.c file of the firmware if you need to change the button mapping or if you want to change the mouse sensitivity. Sensitivity is specified as a percentage.
+~~~c
+/* CONFIG */
+// modify movement rates as a percentage
+// use this to reduce mouse sensitivity especially for drag-scrolling
+const int SENSITIVITY_X = 40;
+const int SENSITIVITY_Y = 40;
+const int SENSITIVITY_H = 3;
+const int SENSITIVITY_V = 3;
+~~~
