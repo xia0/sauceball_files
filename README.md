@@ -15,7 +15,7 @@ A project for upcycling ps/2 optical mice into trackballs using QMK.
 * 2 × 4K7 Ohm resistor [required to hooking up PS/2 mouse to MCU](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md)
 * 6 × M3*3 mm x 5 mm OD threaded insert
 * 6 × M3*6 mm bolts
-* 3 mm cable ties to secure MCU to bottom shell
+* 3 mm cable ties to secure MCU to bottom shell (or glue, double sided tape...)
 * 4 × keyswitches
 * 2 × 1.25u keycap
 * 2 × 1u keycap
