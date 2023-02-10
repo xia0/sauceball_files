@@ -27,9 +27,14 @@ A project for upcycling ps/2 optical mice into trackballs.
 4. Wire everything up using these instructions: [handwiring](https://github.com/qmk/qmk_firmware/blob/master/docs/hand_wire.md) and [ps/2 support](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md) 
 
 ## Making your PCB mount
+Make a high quality scan of your PCB so you can more easily design your mount around its holes and edges.
 ![ps/2 mouse pcb rf-801-32](https://i.imgur.com/pdtQHGd.jpg)
-Get a high quality scan of your PCB so you can more easily design your mount around its holes and edges.
-![fusion 360 calibrate tool](https://i.imgur.com/FOr35y8.png)
+
 Use the calibrate tool to get your scan at the correct size.
-![example of a mounting plate sketch](https://i.imgur.com/Ds6hh3e.png)
+![fusion 360 calibrate tool](https://i.imgur.com/FOr35y8.png)
+
 Place your PCB canvas so that the optical sensor is slightly below the centre point. I've found they tend to track the ball better in this position. Design your mount with slots so that you can adjust the position of the PCB until you get good focus. You will also need to print some M3 spacers to get your sensor at the optimum height. There is a bit of trial and error to get this right.
+![example of a mounting plate sketch](https://i.imgur.com/Ds6hh3e.png)
+
+## Firmware
+Edit the keymap.c file of the firmware if you need to change the button mapping or if you want to change the mouse sensitivity.
