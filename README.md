@@ -16,7 +16,7 @@ A project for upcycling ps/2 optical mice into trackballs using QMK.
 * 6 × M3*3 mm x 5 mm OD threaded insert
 * 6 × M3*6 mm bolts
 * 3 mm cable ties to secure MCU to bottom shell (or glue, double sided tape...)
-* 4 × keyswitches
+* 4 × MX-style keyswitches
 * 2 × 1.25u keycap
 * 2 × 1u keycap
 
