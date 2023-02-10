@@ -1,4 +1,4 @@
-# sauceball_files
+# sauceball
 A project for upcycling ps/2 optical mice into trackballs.
 ![sauceball DIY trackball](https://i.imgur.com/h5vI6Rqh.jpg)
 
