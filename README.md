@@ -7,6 +7,7 @@ A project for upcycling PS/2 optical mice into trackballs using QMK.
 | --- | --- |
 | 1 | 3D printed top shell |
 | 1 | 3D printed bottom shell |
+| 1 | 3D printed PCB mount (instructions below) |
 | 1 | PS/2 compatible optical mouse |
 | 3 | CY-8H ball transfer unit |
 | 1 | 52.5 mm billiards ball |
