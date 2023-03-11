@@ -1,5 +1,5 @@
 # sauceball
-A project for upcycling ps/2 optical mice into trackballs using QMK.
+A project for upcycling PS/2 optical mice into trackballs using QMK.
 ![sauceball DIY trackball](https://i.imgur.com/h5vI6Rqh.jpg)
 
 ## Required parts
