@@ -42,7 +42,7 @@ Make a high quality scan of your PCB so you can more easily design your mount ar
 | --- | ---- | 
 | ![ps/2 mouse pcb rf-801-32](https://i.imgur.com/pdtQHGdl.jpg) | ![fusion 360 calibrate tool](https://i.imgur.com/FOr35y8.png) |
 
-Place your PCB canvas so that the optical sensor is slightly south of the centre point. I've found they tend to track the ball better in this position. Design your mount with slots so that you can adjust the position of the PCB for good focus. I wouldn't suggest spending too much time on this step because the majority of the model will be hidden by the PCB and fillets will make everything look good anyway. You will also need to print some M3 spacers of varying thickness to get your sensor at the optimum height. There is a bit of trial and error to get this right and every model of mouse is different. 
+Place your PCB canvas so that the optical sensor is slightly south of the centre point. I've found they tend to track the ball better in this position. Design your mount with slots so that you can adjust the position of the PCB for good focus. I wouldn't suggest spending too much time on this step because the majority of the model will be hidden by the PCB and fillets will make everything look good anyway. You will also need to print some M3 spacers of varying thickness to get your sensor at the optimum height. There is a bit of trial and error to get this right and every model of mouse is different. I have included an example in this repository.
 
 | Sketch | Printed |
 | --- | --- |
