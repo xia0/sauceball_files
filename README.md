@@ -3,22 +3,22 @@ A project for upcycling PS/2 optical mice into trackballs using QMK.
 ![sauceball DIY trackball](https://i.imgur.com/h5vI6Rqh.jpg)
 
 ## Required parts
-* 3D printed shells
-* 3D printed mounting bracket and spacers (Will need to be custom made for your specific mouse PCB)
-* 3 × CY-8H ball transfer unit
-* 1 × 52.5 mm billiards ball
-* 1 × PS/2 compatible optical mouse
-* 1 × MCU e.g.:
-    * Teensy 2.0 - limited to USB Mini-B port
-    * Arduino Pro Micro - [pin D5 needs to be exposed](https://golem.hu/guide/pro-micro-upgrade/)
-* 4 × diode [required for hand wiring](https://github.com/qmk/qmk_firmware/blob/master/docs/hand_wire.md)
-* 2 × 4K7 Ohm resistor [required to hooking up PS/2 mouse to MCU](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md)
-* 6 × M3*3 mm x 5 mm OD threaded insert
-* 6 × M3*6 mm bolts
-* 3 mm cable ties to secure MCU to bottom shell (or glue, double sided tape...)
-* 4 × MX-style keyswitches
-* 2 × 1.25u keycap
-* 2 × 1u keycap
+| QTY | Part |
+| --- | --- |
+| 1 | 3D printed top shell |
+| 1 | 3D printed bottom shell |
+| 1 | PS/2 compatible optical mouse |
+| 3 | CY-8H ball transfer unit |
+| 1 | 52.5 mm billiards ball |
+| 1 | MCU e.g.: <ul><li>Teensy 2.0 - limited to USB Mini-B port</li><li>Arduino Pro Micro - [pin D5 needs to be exposed](https://golem.hu/guide/pro-micro-upgrade/)</li></ul> |
+| 4 | diode e.g. 1N4148 [required for hand wiring](https://github.com/qmk/qmk_firmware/blob/master/docs/hand_wire.md) |
+| 2 | 4K7 Ohm resistor [required to hooking up PS/2 mouse to MCU](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md) |
+| 6 | Heat-set insert (M3 thread, 3 mm length, 5 mm OD) |
+| 6 | 6 mm M3 bolts |
+| 2-3 | 3 mm cable ties to secure MCU to bottom shell (or glue, double sided tape...) |
+| 4 | MX-style keyswitches |
+| 2 | 1.25u keycap |
+| 2 | 1u keycap |
 
 ## Instructions
 1. Verify that your mouse is PS/2 compatible. Sometimes a USB mouse will be PS/2 compatible but it will not be indicated. The easiest way to check this is by using a green USB to PS/2 adapter. Remember, your computer will have to be restarted for it to recognise a PS/2 device.
