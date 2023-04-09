@@ -29,7 +29,7 @@ A project for upcycling PS/2 optical mice into trackballs using QMK.
     * [handwiring](https://github.com/qmk/qmk_firmware/blob/master/docs/hand_wire.md)
         * ~~~c
             "matrix_pins": {
-                "cols": ["F0", "F1", "B0", "B1"],
+                "cols": ["F4", "F5", "F6", "F7"],
                 "rows": ["B2"]
             }
     * [ps/2 support](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md#usart-version-idusart-version) using USART
