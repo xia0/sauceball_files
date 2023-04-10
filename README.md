@@ -46,6 +46,7 @@ Place your PCB canvas so that the optical sensor is slightly south of the centre
 * [ps/2 support](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md#usart-version-idusart-version) using USART
 
 ![wiring diagram for sauceball trackball](https://github.com/xia0/sauceball_files/blob/main/images/sauceball_wiring_diagram.PNG)
+
 Alternatively, you can wire the switches straight to the mouse PCB but you won't be able to remap them in firmware.
 
 ## Firmware
