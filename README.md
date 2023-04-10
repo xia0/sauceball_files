@@ -48,7 +48,8 @@ Place your PCB canvas so that the optical sensor is slightly south of the centre
 | --- | --- |
 | ![example of a mounting plate sketch](https://i.imgur.com/Ds6hh3el.png) | ![example of a completed mounting plate](https://i.imgur.com/NaUHWrhl.jpg) |
 
-
+## Wiring
+![wiring diagram for sauceball trackball](https://github.com/xia0/sauceball_files/blob/main/images/sauceball_wiring_diagram.PNG)
 
 ## Firmware
-Edit the config.h file of the keymap if you need to change the button mapping or if you want to change the mouse sensitivity. Sensitivity is specified as a percentage.
+Edit the config.h file of the keymap if you need to change the button mapping or if you want to change the mouse sensitivity. Sensitivity is specified as a percentage. Pre-compiled firmware included within this repository.
